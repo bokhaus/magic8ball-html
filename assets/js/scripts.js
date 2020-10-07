@@ -18,7 +18,7 @@ var answers = ["It is certain",
                 "Better not tell you now",
                 "Cannot predict now", 
                 "Concentrate and ask again",
-                "Do you really want to know"];
+                "Do you really want to know?"];
 
 window.onload = function() {
     var eight = document.getElementById("eight");

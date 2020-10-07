@@ -1,3 +1,7 @@
+body {
+    background-image: url(/assets/images/magic-8-background.jpg);
+}
+
 h1 { font-weight: 100; font-size: 2.5em;}
         
 #content { 
@@ -8,9 +12,10 @@ h1 { font-weight: 100; font-size: 2.5em;}
     text-align: center; 
     font-family: 'Helvetica Neue', arial; 
     font-weight: 100;
+    background-color: antiquewhite;
 }
         
-div.eight-ball {
+.eight-ball {
     background-color: black;
     border: 1px solid black;
     border-radius: 50%;
@@ -21,7 +26,7 @@ div.eight-ball {
     margin-top: 30px;
 }
         
-div.answer {
+.answer {
     background-color: #333;
     border: 1px solid #333;
     border-radius: 50%;
